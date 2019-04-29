@@ -1,0 +1,6 @@
+doctor_id,doctor_name,specialization,free_from,doctor_to,hosp_id,latitude,longitude
+963,Akshat B,Gynacologist,12:00,17:00,632014,23.0343,182.3453
+741,Banana Prasad,Psychiatrist,17:30,23:50,632014,345.22,1002.4322
+623,ABC,Psychiatrist,22:00,1:00,632014,220,8
+428,DEF,Psychiatrist,20:30,23:30,632014,220,8
+341,GHI,Psychiatrist,00:30,10:00,632014,344,222
